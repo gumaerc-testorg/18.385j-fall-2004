@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Weakly Nonlinear Things: Oscillators'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-385j-nonlinear-dynamics-and-chaos-fall-2004/63d3700bc08c791e6ff61537a2686f39_weaklynloscilators.pdf
+file: /media/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/63d3700bc08c791e6ff61537a2686f39_weaklynloscilators.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: weaklynloscilators.pdf
 uid: 63d3700b-c08c-791e-6ff6-1537a2686f39
