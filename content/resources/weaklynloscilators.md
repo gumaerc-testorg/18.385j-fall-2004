@@ -5,6 +5,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/63d3700bc08c791e6f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Weakly Nonlinear Things: Oscillators
-

@@ -6,6 +6,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/1eb6619afa5884c9aa
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fourierSC.m
 uid: 1eb6619a-fa58-84c9-aa5c-baa4efad12d2
 ---
 MATLAB function. Demo: To illustrate the convergence of the Fourier Series of a 2*pi periodic function F = F(x).
-

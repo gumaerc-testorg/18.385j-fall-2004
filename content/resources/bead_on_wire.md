@@ -6,6 +6,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/7f15d4558d3e8cab18
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains notes on equations with no friction,adding friction to the equations, friction dominating inertia and problem answers.
-

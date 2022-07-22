@@ -5,6 +5,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/8f285e7c261ffc21a5
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readmeFouSer.m
 uid: 8f285e7c-261f-fc21-a5ee-ed9a0f8635bf
 ---
 Readme for Fourier Series Problem MATLAB files.
-
