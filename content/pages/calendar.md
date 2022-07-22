@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section lists the lecture topics covered in the course along with
+  the assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d8efc71d-c0af-bb67-d3d8-f59a91c138c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In addition to the topics below, we may have time for other topics, such as: Infinite Dimensional Hamiltonian Systems, On-Off Dissipative Systems, etc.

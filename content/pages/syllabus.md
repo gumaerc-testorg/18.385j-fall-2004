@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria participation guidelines and a guide to the instructor?s evaluation
+  of case write-ups.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2cfbcb20-3952-92fa-fe2f-ab20f43e0b1b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
