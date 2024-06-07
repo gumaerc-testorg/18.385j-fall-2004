@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/e8ba8a13a465335cdae7e3cb9d348903_matlab_tutorial.pdf
+file_size: 141497
 file_type: application/pdf
 learning_resource_types:
 - Assignments

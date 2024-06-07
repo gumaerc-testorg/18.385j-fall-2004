@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource consists of suggested readings and problems.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/54ac54385c61434e0bde154e31c4d55a_pset_4.pdf
+file_size: 12091
 file_type: application/pdf
 learning_resource_types:
 - Assignments

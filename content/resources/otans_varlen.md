@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource consists of problem set for deriving equation for pendulum.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/dc711c5696ad6575c0b0a2577c459a0a_otans_varlen.pdf
+file_size: 277579
 file_type: application/pdf
 learning_resource_types:
 - Exams

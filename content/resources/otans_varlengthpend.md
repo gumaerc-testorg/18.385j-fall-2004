@@ -2,6 +2,7 @@
 content_type: resource
 description: Variable Length Pendulum
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/15dbf64951b41d1a663a1e2e252af623_otans_varlengthpend.pdf
+file_size: 179946
 file_type: application/pdf
 learning_resource_types:
 - Exams

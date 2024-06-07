@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource consists of Assignment policies.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/e8d28ea1545d3a1804ace544f9b63c6d_assngment_pol.pdf
+file_size: 99584
 file_type: application/pdf
 learning_resource_types:
 - Assignments
