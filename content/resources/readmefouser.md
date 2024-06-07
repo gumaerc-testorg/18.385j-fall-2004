@@ -2,6 +2,7 @@
 content_type: resource
 description: Readme for Fourier Series Problem MATLAB files.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/8f285e7c261ffc21a5eeed9a0f8635bf_readmeFouSer.m
+file_size: 2561
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -5,6 +5,7 @@ description: 'This resource contains notes on
   Poincare-Lindstedt method and Two Timing, Multiple Scales method for the van der
   Pol equation.'
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/fdf8ddfa718fb2686f3a0d4e1e3976d9_wklynloscilator.pdf
+file_size: 357759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
