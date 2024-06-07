@@ -5,6 +5,7 @@ description: heatSln MATLAB function.  Demo illustrating the solution of the hea
   conditions u(x, 0) = F(x) as given by the same options in the fourierSC script (see
   help fourierSC for more information). A spectral method is used to solve the equation.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/91e32bbb85c39d2676866f97d29a6fdc_heatSln.m
+file_size: 3508
 file_type: text/plain
 learning_resource_types:
 - Assignments

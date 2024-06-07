@@ -4,6 +4,7 @@ description: This resorce consists of introduction, quantative analysis, Quantit
   analysis, and failure for n = 2, Resolution of the difficulty in the case n = 2,
   and exact solution of the orbit equation and Commented Bibliography.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/062157b8fed4b17669e774d3fe52ff69_trky_asmp_fxdpt.pdf
+file_size: 291846
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

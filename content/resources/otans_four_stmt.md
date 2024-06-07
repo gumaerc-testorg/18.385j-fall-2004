@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource consists of the study of how Fourier series converges.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/2891a4187670f485da945a2cc688fa83_otans_four_stmt.pdf
+file_size: 91222
 file_type: application/pdf
 learning_resource_types:
 - Assignments

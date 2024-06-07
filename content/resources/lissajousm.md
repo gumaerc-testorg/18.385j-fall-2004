@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the code for creating Lissajousm figure.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/8d4746af1fc42df0a04dc2c270171e4d_Lissajousm.m
+file_size: 3301
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes notes on: Hopf bifurcation for second order scalar
   equations.'
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/945f716b937b06cf5b5fcdeb591d18e2_hopfbif.pdf
+file_size: 276527
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
