@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource consists of problem on (a) Linearized: stable star-Fully
   nonlinear: stable spiral and Linearized: stable star- Fully nonlinear: stable proper
   node.'
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/cae67b50e584c05fed147efcc5ae2669_pset_2.pdf
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/cae67b50e584c05fed147efcc5ae2669_pset_2.pdf
 file_size: 17940
 file_type: application/pdf
 learning_resource_types:
