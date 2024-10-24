@@ -4,7 +4,7 @@ description: 'function Lissajous(omega, N)
 
   MATLAB function. Plots Lissajous figure x = sin(t), y = sin(omega*t), for 0 <= t
   <= 2*pi*N.  N is optional (default N = 5)'
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/621184a0dec8d78a72942780b50c825c_Lissajousm.txt
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/621184a0dec8d78a72942780b50c825c_Lissajousm.txt
 file_size: 3207
 file_type: text/plain
 learning_resource_types:
