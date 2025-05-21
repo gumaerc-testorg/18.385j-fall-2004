@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource consists of all problem set derived from this master list.
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/a106818251b2f72a56a5b4bf59aabfb1_problemlist.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/a106818251b2f72a56a5b4bf59aabfb1_problemlist.pdf
 file_size: 308434
 file_type: application/pdf
 learning_resource_types:

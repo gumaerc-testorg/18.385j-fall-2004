@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Weakly Nonlinear Things: Oscillators'
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/63d3700bc08c791e6ff61537a2686f39_weaklynloscilators.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/63d3700bc08c791e6ff61537a2686f39_weaklynloscilators.pdf
 file_size: 230545
 file_type: application/pdf
 learning_resource_types:
