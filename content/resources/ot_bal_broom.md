@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource consists of problem statement on balancing a broom.
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/b0d7481a4a6126d1bbe131a9b77b7a87_ot_bal_broom.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/b0d7481a4a6126d1bbe131a9b77b7a87_ot_bal_broom.pdf
 file_size: 135823
 file_type: application/pdf
 learning_resource_types:

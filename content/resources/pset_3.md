@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource consists of suggested readings and problems for epsilon
   < 0.
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/588b6508604d90e57a7a06111c319f37_pset_3.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/588b6508604d90e57a7a06111c319f37_pset_3.pdf
 file_size: 14671
 file_type: application/pdf
 learning_resource_types:

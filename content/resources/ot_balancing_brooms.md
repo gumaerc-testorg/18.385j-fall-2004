@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Balancing a Broom
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/0958ca8f56165ed6646afb145ae50d51_ot_balancing_brooms.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/0958ca8f56165ed6646afb145ae50d51_ot_balancing_brooms.pdf
 file_size: 111006
 file_type: application/pdf
 learning_resource_types:

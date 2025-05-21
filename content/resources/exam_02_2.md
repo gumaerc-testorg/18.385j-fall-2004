@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam Number 2 for 18.385j/2.036j
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/2dac8450ce3efee41ebdc3d6a74b14ce_exam_02_2.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/2dac8450ce3efee41ebdc3d6a74b14ce_exam_02_2.pdf
 file_size: 35448
 file_type: application/pdf
 learning_resource_types:

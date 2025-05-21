@@ -4,7 +4,7 @@ description: This resource contains notes on the normal forms for the various bi
   that can occur in a one dimensional dynamical system ( ?x = f (x, r)) are derived
   via local approximations to the governing equation, valid near the critical values
   where the bifurcation occurs.
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/bca4134c39b52afdaf62d05e0e76afc6_babynormalforms.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/bca4134c39b52afdaf62d05e0e76afc6_babynormalforms.pdf
 file_size: 229982
 file_type: application/pdf
 learning_resource_types:
