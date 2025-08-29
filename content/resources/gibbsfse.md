@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: GIBBS Phenomenon in Fourier Series (Example). A DEMO, MATLAB function.
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/974ad97e55ea1f97df3d879c45bf4df9_gibbsFSE.m
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/974ad97e55ea1f97df3d879c45bf4df9_gibbsFSE.m
 file_size: 2509
 file_type: text/plain
 learning_resource_types:
