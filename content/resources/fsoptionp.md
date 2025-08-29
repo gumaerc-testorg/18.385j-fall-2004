@@ -6,7 +6,7 @@ description: 'FSoptionP
   x   (which can be ROW array), in the interval 0 < x <= 2*pi.  Used by both heatSln
   to provide initial values for the heat equation and by fourierSC, to study Fourier
   Series convergence.  Simple input setup (no buttons).'
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/4071b787859e7e981d9a0b10adf379d2_FSoptionP.m
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/4071b787859e7e981d9a0b10adf379d2_FSoptionP.m
 file_size: 5640
 file_type: text/plain
 learning_resource_types:
