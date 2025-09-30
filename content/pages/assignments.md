@@ -103,4 +103,4 @@ MATLAB® Information
 -------------------
 
 *   Short MATLAB® Tutorial ({{% resource_link e8ba8a13-a465-335c-dae7-e3cb9d348903 "PDF" %}}) (Courtesy of Prof. Gil Strang. Used with permission.)
-*   [MATLAB® Examples by The MathWorks](https://www.mathworks.com/help/examples.html)
+*   {{% resource_link "b620f8d1-dd9c-4377-b0dd-9931fffc5e45" "MATLAB® Examples by The MathWorks" %}}
